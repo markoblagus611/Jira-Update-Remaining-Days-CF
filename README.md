@@ -1,4 +1,4 @@
-# Jira Calculate Custom Field Value
+# Jira Calculate Remaining Days Custom Field Value
 
 This script is designed to work as a scheduled job in Jira, automating the updating of a custom field called 'Ostalo dana' every day.
 
